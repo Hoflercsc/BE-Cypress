@@ -1,0 +1,17 @@
+{
+    "baseUrl": "https://automation-ozzie.boardeffect.com/",
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "experimentalGetCookiesSameSite": true,
+    "experimentalNetworkStubbing": true,
+    "experimentalFetchPolyfill": true,
+
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "env": {
+        "userSteveSystem": "steveSystem",
+        "userAutoTester": "autoTester",
+        "password": "Passw0rd",
+        "wrongPassword": "Passw0rd"
+      }
+}
